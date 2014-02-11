@@ -136,7 +136,7 @@
     }
 
     .wdg_altasbajas_result_01 a.next {
-        background-color: #A41D21;
+        background-color: #3a9e2a;
     }
 
     .wdg_altasbajas_result_01 > div .prev, 
@@ -175,6 +175,7 @@
         background-color: #A41D21;
     }
     .wdg_altasbajas_result_01 > div .tvsa-caret-up{
+        color: #fff;
         line-height:25px;
         margin: 2px 0 0 10px; 
     }
@@ -694,11 +695,11 @@
 	
 	
 	.wdg_altasbajas_result_01 .controls .bgactive{
-		background-color:#A70A0B;
+		background-color:#3a9e2a;
 	}
 	
 	.wdg_altasbajas_result_01 .controls .bginactive{
-		background-color:#BF6163;
+		background-color:#3a9e2a;
 	}
 	
 	.wdg_altasbajas_result_01 .controls .bgactive span{
@@ -706,7 +707,7 @@
 	}
 	
 	.wdg_altasbajas_result_01 .controls .bginactive span{
-		color:#DBA5A5;
+		color:#fff;
 	}
 	
 	
