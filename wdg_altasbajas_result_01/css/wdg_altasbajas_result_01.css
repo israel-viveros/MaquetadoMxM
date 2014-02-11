@@ -1,5 +1,9 @@
 @media screen and (min-width: 948px){
 	
+	.background-color{
+		background: #3a9e2a !important;
+	}
+
 	.wdg_altasbajas_result_01 > ul {
       background-image:none;
     }
@@ -24,7 +28,8 @@
 		display:none;
 	}
 	 .wdg_altasbajas_result_01 > div .full-timetable {
-	 	background:#E6E6E6; 	
+	 	background:#E6E6E6;
+	 	box-shadow: 0 0 7px #C0C0C0 inset; 	
 	 	height:28px;
 	 	line-height:28px;
 	 	margin-left: 85px;

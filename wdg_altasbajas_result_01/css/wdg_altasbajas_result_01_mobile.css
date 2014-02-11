@@ -1,4 +1,9 @@
 @media screen{
+
+    .background-color{
+        background: #3a9e2a !important;
+    }
+
     .wdg_altasbajas_result_01{    	
     	height: 100%;
         position: relative;
@@ -165,9 +170,9 @@
     }
 
     .wdg_altasbajas_result_01 > div .full-timetable span {
-        color: #000000;
+        color: #232323;
         font-size: 14px;
-        font-weight: normal;
+        font-weight: bold;
     }
 
     .wdg_altasbajas_result_01 a.prev, 
@@ -709,6 +714,9 @@
 	.wdg_altasbajas_result_01 .controls .bginactive span{
 		color:#fff;
 	}
+
+    .background-color1 {
+background-color: #3a9e2a !important;
 	
 	
 	
