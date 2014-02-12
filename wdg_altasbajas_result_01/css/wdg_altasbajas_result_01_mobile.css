@@ -513,11 +513,11 @@
     {
         width: 100%;
         position: relative;
-        height: 33px;
+        height: 35px;
         clear: both;
         border-bottom: 1px solid #CCC;
-		background-color: #E1E1E1;
-        box-shadow: inset 0px 0px 12px 4px rgba(0,0,0,0.1);
+		background-color: #E7E7E7;
+        box-shadow: inset 0px 0px 12px 4px rgba(0,0,0,0.05);;
     }
     .wdg_altasbajas_result_01 .str_pleca_01
     {
@@ -560,6 +560,7 @@
 		background-size: auto auto;
 		text-decoration: none;
 		border-bottom: 1px solid #CCCCCC;
+        box-shadow: inset 20px 0px 12px 4px rgba(0,0,0,0.05);
 	}
 	.wdg_altasbajas_result_01 .deg .wdg_altasbajas_result_01_block .date{
 		display: block;

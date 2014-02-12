@@ -13,6 +13,7 @@
         display: block;
     }
 	.wdg_altasbajas_result_01 .degradado{
+		height: 35px;
 		display:none;
 	}
 
@@ -24,6 +25,12 @@
     .ie8 .wdg_altasbajas_result_01 > ul li div:first-child {
       filter: alpha(opacity=100);
     }
+
+	.wdg_altasbajas_result_01 .lineaResultado{
+		height: 35px;
+	}
+
+
 	.wdg_altasbajas_result_01 .degraded{
 		display:none;
 	}
